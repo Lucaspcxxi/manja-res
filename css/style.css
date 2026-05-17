@@ -34,3 +34,12 @@ i {
   box-shadow: 0 0 15px rgba(13, 110, 253, 0.7);
   transform: scale(1.03);
 }
+.tarj{
+  width:250px;
+  height: 250px;
+  object-fit: cover;
+}
+.img-comunidad{
+    height: 250px;
+    object-fit: cover;
+}

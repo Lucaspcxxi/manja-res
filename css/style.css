@@ -43,3 +43,8 @@ i {
     height: 250px;
     object-fit: cover;
 }
+#receta{
+  width: 75vw;
+  background-color: aquamarine;
+  color: black;
+}
